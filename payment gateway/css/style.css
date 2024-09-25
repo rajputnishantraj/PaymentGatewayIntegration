@@ -1,11 +1,11 @@
-body
-{
+body {
     margin: 0;
     padding: 0;
-    background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.7)),url("https://websterunitedmethodist.org/wp-content/uploads/2019/09/Young-Children_Reduced-Cropped.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url("https://websterunitedmethodist.org/wp-content/uploads/2019/09/Young-Children_Reduced-Cropped.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .navbar-nav li a{
     padding: 5px 9px;
     color: #ffffff;
